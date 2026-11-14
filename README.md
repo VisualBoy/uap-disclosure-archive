@@ -5,6 +5,9 @@ A self-hosted, searchable mirror of the U.S. Department of War's
 video; full-text OCR'd; an Obsidian vault; and a single-page web search UI
 with content + visual relationship linking.
 
+<img width="1913" height="1119" alt="image" src="https://github.com/user-attachments/assets/95dd41ea-a923-4ea6-9da0-9cd60206799f" />
+
+
 **[ATTRIBUTION & legal notes →](ATTRIBUTION.md)** &nbsp;·&nbsp;
 [MIT licensed](LICENSE) source · public-domain US government source material
 
