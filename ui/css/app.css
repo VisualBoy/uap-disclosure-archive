@@ -3170,7 +3170,7 @@ main.case-main { display: block; }
 }
 
 /* ── Record page ───────────────────────────────────────────────────── */
-.record-main { max-width: 860px; margin: 0 auto; padding: 28px 20px 90px; }
+.record-main { padding: 28px 20px 90px;  max-width: 1280px;  grid-template-columns: 4fr 3fr;  display: grid;  gap: 20px; }
 .record-section {
   margin-top: 34px; padding-top: 18px;
   border-top: 1px solid var(--rule);
