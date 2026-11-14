@@ -1312,6 +1312,7 @@
   #timeline-view {
     grid-row: 2 / 3; background: var(--bg); position: relative;
     display: grid; grid-template-rows: 1fr auto; min-height: 0; overflow: hidden;
+    grid-template-columns: 1fr;
   }
   #timeline-stage {
     position: relative; min-height: 0; overflow: hidden;
